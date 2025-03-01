@@ -1,5 +1,7 @@
 # Donation Page
 
+##Accessing the src folder::: switch branch from main to master
+
 ## Overview
 
 This is a personal portfolio website for Daniel Mukula, showcasing various services offered, skills, projects, testimonials, and contact information. The website is designed to provide a strong online presence and help potential clients understand the services available.
